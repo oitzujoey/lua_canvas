@@ -1,5 +1,7 @@
 # lua_canvas
 
+Draw pictures using Lua.
+
 ## Dependencies
 
 Lua 5.4  
