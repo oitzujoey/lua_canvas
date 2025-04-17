@@ -15,6 +15,3 @@ end
 setPosition(5, 5)
 setColor(0xFF0000)
 plot()
-while true do
-	render()
-end
