@@ -186,6 +186,8 @@ int main(int argc, char *argv[]) {
 		return 1;
 	}
 
+	if (!initialized) return 0;
+
 	while (1) {
 		if (quit()) break;
 		(void) canvas_render(&canvas);
